@@ -3,7 +3,7 @@
 A curated list of open source wallets which are compatible with EIP-4337 aka account abstraction
 
 
-## Ressources to learn more about EIP 4337 aka Accont Abstraction
+## Ressources to learn more about EIP 4337 aka Account Abstraction
 - [4 Part series by Alchemy (highly technical)](https://www.alchemy.com/blog/account-abstraction)
 - [Vitalik's post (2021)](https://medium.com/infinitism/erc-4337-account-abstraction-without-ethereum-protocol-changes-d75c9d94dc4a)
 - [Dune Dashboard](https://dune.com/johnrising/erc-4337)
