@@ -18,8 +18,7 @@ A curated list of open source wallets which are compatible with EIP-4337 aka acc
 - [Discord](http://discord.gg/fbDyENb6Y9)
 
 ## Open Source wallets
-- [Official example implementation](https://github.com/eth-infinitism/account-abstraction/tree/develop/contracts)
-- [Trampoline: chrome extension boilerplate for smart contract wallet](https://github.com/eth-infinitism/trampoline)
+- [Official example implementation](https://github.com/eth-infinitism/account-abstraction/tree/develop/contracts) + [Chrome extension boilerplate](https://github.com/eth-infinitism/trampoline)
 - [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract)
 - [Candide Wallet](https://github.com/candidelabs/CandideWalletContracts)
 - [Biconomy Wallet](https://github.com/bcnmy/scw-contracts/tree/master/contracts/smart-contract-wallet/aa-4337)
