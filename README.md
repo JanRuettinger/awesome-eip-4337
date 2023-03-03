@@ -24,9 +24,6 @@ A curated list of open source wallets which are compatible with EIP-4337 aka acc
 - [Candide Wallet](https://github.com/candidelabs/CandideWalletContracts)
 - [Biconomy](https://github.com/bcnmy/scw-contracts/tree/master/contracts/smart-contract-wallet/aa-4337)
 
-
-- [https://github.com/AmbireTech/wallet]
-
 ## Open Source bundlers
 - [Reference implementation: Infinitism (Typescript)](https://github.com/eth-infinitism/bundler)
 - [Stackup (Go) by Stackup](https://github.com/stackup-wallet/stackup-bundler)
