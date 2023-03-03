@@ -11,7 +11,7 @@ A curated list of open source wallets which are compatible with EIP-4337 aka acc
 - [Detailed walk through by independent dev](https://coinsbench.com/eip-4337-detailed-workflow-176a8d3933e9)
 
 
-## Official ERC-4337 links
+## Official EIP-4337 links
 - [Official specification](https://eips.ethereum.org/EIPS/eip-4337)
 - [Official discussion link](https://ethereum-magicians.org/t/erc-4337-account-abstraction-via-entry-point-contract-specification/7160)
 - [Official repo for implementation contracts for ERC-4337](https://github.com/eth-infinitism/account-abstraction)
