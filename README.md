@@ -28,7 +28,7 @@ A curated list of open source wallets which are compatible with EIP-4337 aka acc
 - [Stackup (Go) by Stackup](https://github.com/stackup-wallet/stackup-bundler)
 - [AA (Rust) by Vid Kersic](https://github.com/Vid201/aa-bundler/)
 - [Skanda (Typescript) by Etherspot](https://github.com/etherspot/skandha)
-- [Candide (Python) by Candide)(https://github.com/candidelabs/Candide-bundler-and-paymaster-RPC/)
+- [Candide (Python) by Candide](https://github.com/candidelabs/Candide-bundler-and-paymaster-RPC/)
 
 
 
